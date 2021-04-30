@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css';
 
-function App() {
+funon App() {
 
   const [num, setNum] = React.useState(1)
 
